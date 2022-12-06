@@ -5,3 +5,6 @@ cache
 build
 package-lock.json
 yarn.lock
+typechain-types
+.env
+.DS_Store
